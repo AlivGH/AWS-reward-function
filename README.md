@@ -1,4 +1,5 @@
 # AWS DeepRacer Custom Reward Function
+![image](https://github.com/user-attachments/assets/91eed978-5df9-4b09-933c-91210288c349)
 
 ## Project Overview
 This repository contains the code and documentation for a project focused on developing a custom reward function to enhance the performance of an autonomous vehicle within the AWS DeepRacer simulation environment. The primary goal of this project is to optimize the vehicle's adherence to the center line, speed maintenance, and overall track positioning, resulting in faster lap times and improved stability.
