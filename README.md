@@ -12,29 +12,6 @@ This repository contains the code and documentation for a project focused on dev
 - **Reinforcement Learning**
 - **Python Programming**
 
-## Getting Started
-
-### Prerequisites
-- AWS DeepRacer console or local simulation environment
-- Python 3.x
-
-### Installation
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/deepracer-reward-function.git
-    cd deepracer-reward-function
-    ```
-
-2. Set up a virtual environment (optional but recommended):
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 1. Customize the `reward_function.py` file with your own reward logic.
@@ -50,5 +27,4 @@ Feel free to reach out for any questions or collaboration opportunities:
 - **Gmail:** alivghasemi@gmail.com
 - **LinkedIn:** [Ali V Ghasemi](https://www.linkedin.com/in/alivghasemi/)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
