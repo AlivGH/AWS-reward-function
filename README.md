@@ -25,6 +25,6 @@ The project has demonstrated significant improvements in lap times and vehicle s
 Feel free to reach out for any questions or collaboration opportunities:
 
 - **Gmail:** alivghasemi@gmail.com
-- **LinkedIn:** [Ali V Ghasemi](https://www.linkedin.com/in/alivghasemi/)
+- **LinkedIn:** [AlivGhasemi](https://www.linkedin.com/in/alivghasemi/)
 
 
